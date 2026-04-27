@@ -47,7 +47,7 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
               }`}
             >
-              Наша философия
+              Характеристика профессии
             </p>
 
             <h2
@@ -55,10 +55,8 @@ export function Philosophy() {
                 isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
               }`}
             >
-              Искусство
-              <span className="italic"> осознанной</span>
-              <br />
-              жизни
+              Кто такой
+              <span className="italic"> строитель</span>
             </h2>
 
             <div
@@ -67,13 +65,13 @@ export function Philosophy() {
               }`}
             >
               <p>
-                Мы верим, что каждое пространство таит в себе потенциал для преображения. Не через добавление,
-                а через бережное вычитание — открывая то, что всегда было предначертано.
+                Строитель — специалист, занимающийся возведением зданий и сооружений. Это одна из древнейших
+                и наиболее востребованных профессий в мире, без которой невозможно представить современную жизнь.
               </p>
               <p>
-                Наш подход вдохновлён японской концепцией <em className="text-foreground">ма</em> — глубокой
-                красотой пустоты — и скандинавским пониманием
-                <em className="text-foreground"> хюгге</em>, этого ощущения уютного умиротворения.
+                Профессия требует <em className="text-foreground">физической выносливости</em>, технических знаний
+                и умения работать в команде. Строитель воплощает в жизнь проекты архитекторов,
+                превращая чертежи в <em className="text-foreground">реальные объекты</em>.
               </p>
             </div>
 
@@ -84,16 +82,16 @@ export function Philosophy() {
               }`}
             >
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">12</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Лет опыта</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">3+</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Года обучения</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">140+</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Проектов</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">100%</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Востребованность</p>
               </div>
               <div>
-                <p className="font-serif text-3xl md:text-4xl text-sage">8</p>
-                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Наград</p>
+                <p className="font-serif text-3xl md:text-4xl text-sage">∞</p>
+                <p className="text-xs tracking-widest uppercase text-muted-foreground mt-2">Карьерный рост</p>
               </div>
             </div>
           </div>

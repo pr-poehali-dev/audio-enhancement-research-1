@@ -19,7 +19,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-4"
           }`}
         >
-          Студия дизайна интерьеров
+          Творческий проект по технологии
         </p>
 
         {/* Main Headline */}
@@ -28,8 +28,8 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Пространства,
-          <span className="block text-sage">которые дышат</span>
+          Мой профессиональный
+          <span className="block text-sage">выбор</span>
         </h1>
 
         {/* Subheadline */}
@@ -38,7 +38,7 @@ export function Hero() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          Японский минимализм в сочетании со скандинавским теплом. Мы создаём интерьеры, где есть место и смыслу, и красоте.
+          Строитель — профессия, которая создаёт мир вокруг нас. Дома, мосты, города — всё начинается с умелых рук и твёрдого намерения.
         </p>
 
         {/* CTA */}
@@ -48,10 +48,10 @@ export function Hero() {
           }`}
         >
           <a
-            href="#contact"
+            href="#philosophy"
             className="group inline-flex items-center gap-3 px-8 py-4 bg-sage text-primary-foreground text-sm tracking-widest uppercase hover:bg-sage/90 transition-all duration-500"
           >
-            Начать проект
+            Узнать больше
             <svg
               className="w-4 h-4 transition-transform duration-500 group-hover:translate-x-1"
               fill="none"
@@ -62,10 +62,10 @@ export function Hero() {
             </svg>
           </a>
           <a
-            href="#philosophy"
+            href="#services"
             className="inline-flex items-center gap-2 px-8 py-4 text-sm tracking-widest uppercase text-muted-foreground hover:text-foreground transition-colors duration-500"
           >
-            Наш подход
+            Плюсы и минусы
           </a>
         </div>
       </div>
