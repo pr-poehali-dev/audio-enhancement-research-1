@@ -49,8 +49,8 @@ export function Testimonial() {
             isVisible ? "opacity-100 translate-y-0" : "opacity-0 translate-y-8"
           }`}
         >
-          <p className="text-sm tracking-widest uppercase text-primary-foreground/80">Спасибо за внимание!</p>
-          <p className="text-sm text-primary-foreground/60 mt-1">Профессия строителя — мой выбор</p>
+          <p className="text-sm tracking-widests uppercase text-primary-foreground/80">Спасибо за внимание!</p>
+          <p className="text-sm text-primary-foreground/60 mt-1">Выполнил: Глеб, 9Г</p>
         </div>
       </div>
     </section>
